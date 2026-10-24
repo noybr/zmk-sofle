@@ -1,7 +1,7 @@
 include:
   - board: nice_nano_v2
-    shield: eyelash_sofle_left nice_view_custom
+    shield: eyelash_sofle_left nice_view_adapter
   - board: nice_nano_v2
-    shield: eyelash_sofle_right nice_view_custom
+    shield: eyelash_sofle_right nice_view_adapter
   - board: nice_nano_v2
     shield: settings_reset
